@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Predestination handled and maintained, against Papists, Arminians, and certaine churches also of antipaedobaptists, who with much zeale, and industry impugne the same. By Henry Lavor. He calleth things that are not, as if they were. Published by authority.</title>
+            <author>Lavor, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88799</idno>
+            <idno type="STC">Wing L627</idno>
+            <idno type="STC">Thomason E1187_2</idno>
+            <idno type="STC">ESTC R208237</idno>
+            <idno type="EEBO-CITATION">99867203</idno>
+            <idno type="PROQUEST">99867203</idno>
+            <idno type="VID">119505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119505)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1187[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Predestination handled and maintained, against Papists, Arminians, and certaine churches also of antipaedobaptists, who with much zeale, and industry impugne the same. By Henry Lavor. He calleth things that are not, as if they were. Published by authority.</title>
+                  <author>Lavor, Henry.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by I. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Note on flyleaf by Joseph Caryl.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Predestination --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119505:1" rendition="simple:additions"/>
+            <p>Predeſtination HANDLED and MAINTAINED, AGAINST Papiſts, Arminians, and certaine Churches alſo of Antipaedobaptiſts, who with much zeale, and induſtry, impugne the ſame.</p>
+            <p>By HENRY LAVOR.</p>
+            <p>He calleth things that are not, as if they were.</p>
+            <q>VVhen Hee appointed the Foundations of the Earth, then vvas I by Him, as one brought up with him, rejoicing alvvaies before him, &amp;c. and my delights vvere vvith the Sons of men, <bibl>
+                  <hi>Prov. 8. verſ. 29, 30, 31.</hi>
+               </bibl>
+            </q>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>I. Coe.</hi> 1646.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:119505:2"/>
+            <p>HAving peruſed this enſu<g ref="char:EOLhyphen"/>ing Diſſertation, wherein the Author (without provo<g ref="char:EOLhyphen"/>king Language) judiciouſly op<g ref="char:EOLhyphen"/>poſes a reviving and growning dangerous error, I do there<g ref="char:EOLhyphen"/>fore appoint it to be made pub<g ref="char:EOLhyphen"/>like.</p>
+            <closer>
+               <dateline>
+                  <date>Iune the 20. 1646.</date>
+               </dateline>
+               <signed>Joſeph Caryl.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119505:2"/>
+            <head>Predeſtination handled and maintained &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE reviving and vi<g ref="char:EOLhyphen"/>gorous Errors of theſe dayes,<note place="margin">Generall Redemp<g ref="char:EOLhyphen"/>tion. Free will.</note> too miſerably heard aſſerted, and maintained, from the mouthes of ſome of thoſe, who even pre<g ref="char:EOLhyphen"/>tend to greater devotion; abetted alſo with the confident ſuffrages, and earneſt acclama<g ref="char:EOLhyphen"/>tions
+<pb n="2" facs="tcp:119505:3"/> of their Audients not a few, have ſomewhat prema<g ref="char:EOLhyphen"/>turely haſtned to the birth, theſe our newly conceived me<g ref="char:EOLhyphen"/>ditations; which ſhould elſe have tarried for a more elabo<g ref="char:EOLhyphen"/>rate, and exact Recenſion. Howſoever, we hope, there's none will reprehend; when he may, with us, conſider, this may prove alſo an occaſion to others more able, of appearing in this ſame defence. And ſo paſſe we to the intended mat<g ref="char:EOLhyphen"/>ter, that is, Predeſtination: touching which, for our more orderly progreſſe, we be<g ref="char:EOLhyphen"/>gin our diſcourſe from its defi<g ref="char:EOLhyphen"/>nition: which, in the ſenſe we uſe it, may thus be formed. Predeſtination then is Gods deſigning, and appointing ſe<g ref="char:EOLhyphen"/>verally, before time, a certaine
+<pb n="3" facs="tcp:119505:3"/> number of perſons, to grace, and glory; and that abſolute<g ref="char:EOLhyphen"/>ly and of ſimple love to them. That this deſignation is before time, is expreſly by the Scrip<g ref="char:EOLhyphen"/>tures intimated: as, <hi>he hath choſen us in him, before the Foundation of the VVorld.</hi> Eph. 1.4. and 2 Tim. 2.9. &amp;c. And that in the act of Predeſti<g ref="char:EOLhyphen"/>nation, God had before him, the certaine diſtinct notions, &amp; particular repreſentations of all the Elect, <hi>i. e.</hi> of all men that are, or ever ſhall be glorified; is not onely atteſted by the Scriptures, but by Reaſon alſo. And firſt, we alledge Scriptures. Revel. 17.8. the words are theſe: <hi>And they that dwell on the Earth, ſhall wonder, whoſe Names were not written in the Booke of Life,
+<pb n="4" facs="tcp:119505:4"/> from the foundation of the World.</hi> Here what have we hinted,<note place="margin">4 Phil. 3.10. Lu. 20.13 Rev. 8.</note> but a Regiſtrie, or Ca<g ref="char:EOLhyphen"/>talogue of the names of the E<g ref="char:EOLhyphen"/>lect? <hi>whoſe names were not writen</hi> &amp;c. And that before time: For in the occaſionally, or accidentally intimating the negation of that priviledge as to ſome, (a thing quite beſides the Authors chiefe purpoſe) is evidently, and cleerly im<g ref="char:EOLhyphen"/>plyed, a Graunt, and Con<g ref="char:EOLhyphen"/>ceſſion thereof to ſome others. Againe, Rom. 8.29.30. <hi>Whom he foreknew he alſo did Pre<g ref="char:EOLhyphen"/>deſtinate,</hi> &amp;c. <hi>and whom he did Predeſtinate them he alſo called</hi> &amp;c. Here, by <hi>foreknow<g ref="char:EOLhyphen"/>ing</hi> what is intended? If the word you will have taken in its vulgar, and ordinary ſenſe, then will it follow, that all be<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:119505:4"/> of God foreknowne, all likewiſe being accounted to the partnerſhip of thoſe glori<g ref="char:EOLhyphen"/>ous dignities, Sanctity, Glo<g ref="char:EOLhyphen"/>ry, &amp;c. which ſure none of a<g ref="char:EOLhyphen"/>ny reaſon will admit. Some to this word foreknew, would have adjoyned, theſe words, [would believe] and that in a way of cauſing. Which whiles they conjecture, how unwari<g ref="char:EOLhyphen"/>ly skip they over a notable ab<g ref="char:EOLhyphen"/>ſurdity? For (by them) thoſe ſame God foreknew would of themſelves believe, he alſo makes to believe: unleſſe they'l ſay believing, or faith is not, nor any part of voca<g ref="char:EOLhyphen"/>tion, and Sanctification: nor they of it, which were even to fly from a leſſe unto a greater abſurditie. We rather con<g ref="char:EOLhyphen"/>ceive the Author by that
+<pb n="6" facs="tcp:119505:5"/> word, to intend Gods eternall love in Chriſt to his Saints, reflected upon by him with re<g ref="char:EOLhyphen"/>ference, and in order to thoſe graduall inferences: which love ſo reflected on, appear'd like a Crowne, intituling thoſe that wore it, to the Royall Preheminences, Calling, San<g ref="char:EOLhyphen"/>ctity, Glory. Nor do we want other Scriptures, many, that clearly owne, and confirme out ſaid interpretation; when the undoubted ſenſe thereof doth plainly exact ſuch an under<g ref="char:EOLhyphen"/>ſtanding of the queſtioned words, as we have delivered. <hi>GOD hath not caſt of His People, whom Hee foreknew,</hi> Rom. 11.2. and Mat. 25.12. <hi>I know you not.</hi> See 3 Amos 2. with many others. 'Tis evi<g ref="char:EOLhyphen"/>dent then that <hi>knowing</hi> in the
+<pb n="7" facs="tcp:119505:5"/> Scriptures Dialect, is put for loving: And as evident it is alſo, that Calling, Juſtificati<g ref="char:EOLhyphen"/>on, Glorification in the fore<g ref="char:EOLhyphen"/>ſaid place mentioned, do re<g ref="char:EOLhyphen"/>ceive limits,<note place="margin">Act. 2. laſt v. &amp; 13.48</note> and meaſure from that foreknowing, or forelo<g ref="char:EOLhyphen"/>ving: which is in the text aſ<g ref="char:EOLhyphen"/>ſur'd us, by that often repeated Relative, <hi>whom. Thoſe Hee foreknew, Hee predeſtinated, called</hi> &amp;c. Thoſe and no others; Thoſe and no more. Which ſeeing tis ſo, then vaine and in<g ref="char:EOLhyphen"/>conſiderate is that opinion of many, who think the number, and perſons of the foreknown, were to God in the ſaid act of Predeſtination not determi<g ref="char:EOLhyphen"/>nate, nor ſeverally conſidered; but that they lay deepe ſunke in the Abyſſe of obſcuritie, and confuſion; either neceſſa<g ref="char:EOLhyphen"/>rily,
+<pb n="8" facs="tcp:119505:6"/> or willingly by God ſo ſuffered to bee: So as any one has in himſelfe Free-will, and Power; by believing, to make himſelf of the number of thoſe Foreknowne. But to paſſe by this Errour of theirs, we will add to this word foreknowne, another of the ſame Apoſtles words uſ'd in the like matter &amp; that is <hi>choſen</hi> 1 Eph. 4. an act likewiſe plac'd before all time: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, tis in the Greeke cull'd <hi>out.</hi> Now in chuſing, or pick<g ref="char:EOLhyphen"/>ing out as it were of ſome from out of others; is had a diſcer<g ref="char:EOLhyphen"/>ing, and diſtinction, elſe 'tis no chooſing, no Election, and where chooſing is, there is alſo a taking out of ſome, a leaving of others. God then did take ſome for his Sonnes, and heirs of glory, did he not know
+<pb n="9" facs="tcp:119505:6"/> them? who they would bee?<note place="margin">Pſal. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>39.15.16.</note> how many? But he knew <hi>Davids</hi> ſubſtance yet being im<g ref="char:EOLhyphen"/>perfect, and in his booke were written all his Members, when as yet there was none of them. If you will have this to be ſpoken of <hi>Davids</hi> Perſon, even ſo it doth make much for us: If of the Elect, (as more proba<g ref="char:EOLhyphen"/>ble) then much more; yea then it amounts to no leſſe then a cleare and plenarie confirma<g ref="char:EOLhyphen"/>tion of the point we aſſert.<note place="margin">Rom. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11.12.13.</note> He knew alſo <hi>Jacob</hi> and loved him yet unborne.<note place="margin">Lu. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.15.</note> He knew <hi>Iohn</hi> the Baptiſt,<note place="margin">Ier. 2.5.</note> and ſanctified him in the wombe. And <hi>Ieremiah</hi> did he know before he formed him in the belly, and before he came forth out of the wombe, he ſanctified him, and ordain<g ref="char:EOLhyphen"/>ed him a Prophet, &amp;c. All theſe
+<pb n="10" facs="tcp:119505:7"/> you'l grant God did foreknow ſeverally,<note place="margin">See alſo 1 Gal 15. Act. 15.18.</note> did he not alſo know the reſt? <hi>But known unto God</hi> (ſaith the Apoſtle) <hi>are all his workes from the beginning of the World.</hi>
+            </p>
+            <p>
+               <note place="margin">Iohn 1.3. 1 Col. 16. Epheſ. 3.9. Act. 4.24.</note>Again, hee formeth and ma<g ref="char:EOLhyphen"/>keth all things; witneſſe the Scri<g ref="char:EOLhyphen"/>ptures: From whence we will inferre he foreknew all things; For he does either make things raſhly, and without precogni<g ref="char:EOLhyphen"/>tion of their future Formes, or contrariwiſe:<note place="margin">See Act. 4.28.</note> but doubtleſſe the latter; elſe ſhall we put the Creator beneath that perfecti<g ref="char:EOLhyphen"/>on he has given his Creature: (for not man ſets himſelfe to operate, without having a pre<g ref="char:EOLhyphen"/>ſcript, or preconceiv'd type, and pattern of the work he in<g ref="char:EOLhyphen"/>tends to.) And then this prece<g ref="char:EOLhyphen"/>dencie of knowledge, to opera<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:119505:7"/> in God, was before time: for a Creature it is not, but it is in God alone, and ſo God him<g ref="char:EOLhyphen"/>ſelfe, according to the School<g ref="char:EOLhyphen"/>men;<note n="*" place="margin">vvhatſo<g ref="char:EOLhyphen"/>ever is in God, is God him<g ref="char:EOLhyphen"/>ſelfe.</note> 
+               <hi>Quicquid eſt in Deo eſt ipſe Deus.</hi> And ſecondly, if this precognition was in God not eternall, then did there ſome<g ref="char:EOLhyphen"/>thing from without, occaſion and beget the ſame; (for God is one, ſimple, entire, and not mixed) and ſo it will follow, God is paſſible, imperfect; yea, the firſt Cauſe then, ſhall in a manner bee the effect of a ſe<g ref="char:EOLhyphen"/>cond; of its owne effect; and ſo there will follow a confuſi<g ref="char:EOLhyphen"/>on of Cauſes: which all are moſt abſurd. The like may be ſaid alſo of Gods love to men ſeverally, in reference to that of <hi>Ieremiah,</hi> Chap. 31. Verſ. 23. <hi>(I have loved thee with an ever<g ref="char:EOLhyphen"/>laſting love)</hi> if any would have
+<pb facs="tcp:119505:8"/> it reſtrain'd to the future only. But an irrefragable place alſo to our purpoſe is, that in the Pſalms, Pſalm. 90. Verſ. 1. <hi>Lord thou haſt been our dwelling place in all Generations.</hi>
+               <note place="margin">
+                  <hi>Heb:</hi> From Genera<g ref="char:EOLhyphen"/>tion, to Genera<g ref="char:EOLhyphen"/>tion, the ſame in ſenſe.</note> What, would hee bee their dwelling place, ſo long, and yet not know them? doubtleſſe no. Wee ſay again, if God did not ſeverally know, eternally, the perſons of thoſe he preordain'd to life eternall, 'twas either be<g ref="char:EOLhyphen"/>cauſe he would not, or becauſe he could not. That wee em<g ref="char:EOLhyphen"/>brace not the former, the admi<g ref="char:EOLhyphen"/>rable love of God to them ex<g ref="char:EOLhyphen"/>hibited, more eſpecially in the wonderfull act of Redemption. diſſwadeth: And the latter wee now come to refute by rea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>If God therefore did not
+<pb n="13" facs="tcp:119505:8"/> know the preciſe number of his Saints, before the world made, and ſo upwards, then did he waite untill he ſhould be in<g ref="char:EOLhyphen"/>formed thereof, either from the events, and determinations of his own Actions, or elſe from ſome other Minde and Pow<g ref="char:EOLhyphen"/>er, and this Minde and Power is either ſubordinate to God, or co-ordinate with him: If ſub<g ref="char:EOLhyphen"/>ordinate; (as neceſſarily) then ſimply and totally ſubordinate to him, or not: if not; then ſtill muſt it be mounted into the throne of a Deitie: but if ſim<g ref="char:EOLhyphen"/>ply, and totally ſubordinate, then did it, and doth receive of God the Precepts, formes, rules, and preciſe meaſures of all its actions: And other then ſuch an Agent, (if yet even ſuch a one) no man but ſees
+<pb n="14" facs="tcp:119505:9"/> God would not ordaine, to ſo great a detraction, and blemiſh, and even emulation of his di<g ref="char:EOLhyphen"/>vine Soveraignty. (we ſpeak of a Power procreative of thoſe wee call Naturall and Sub<g ref="char:EOLhyphen"/>ſtantiall Formes, as ſuch) Nor would we by any meanes admit of ſuch a Preter-divine Agent, directly over the very perſons, of men. What may be brought againſt us out of Geneſis 1.11. <hi>And God ſaid let the Earth bring forth graſſe,</hi> &amp;c. Is limitted to things vegitative onely. The 24. verſe, where its ſaid, <hi>Let the Earth bring forth the living Creature,</hi> &amp;c. Is declared by that which followes, <hi>viz. And God made the beſt of the, Earth.</hi> &amp;c. We then here finde any Aſſignation, of delegation of ſuch a Pro<g ref="char:EOLhyphen"/>ductive
+<pb n="15" facs="tcp:119505:9"/> Power or Faculty, as to the forme ſubſtantiall, ex<g ref="char:EOLhyphen"/>tended to man: whoſe ſupere<g ref="char:EOLhyphen"/>minent Dignity is in the ſame Chapter pointed out in the words; <hi>Let us make man,</hi> &amp;c. Nor (as for the other member) is God to deduce ſuch a knowledge, from the events, and determinations of his own Actions: For then it may be truly to be ſaid of Him, Hee's about to do he knowes not how much: or he knowes not the quantity of his own intend<g ref="char:EOLhyphen"/>ed actions, which were doubt<g ref="char:EOLhyphen"/>leſſe abſurd. It will then alſo be true, if one ſhall ſay at the period of humane Generation, or ſome ſhort time before; Now knowes God ſomewhat of his nobleſt Creatures, which before he was ignorant
+<pb n="16" facs="tcp:119505:10"/> of. Nor may our diſcourſe much ſtick at that Objection. What then (may ſome ſay) did God know before time every blade of graſſe that ſhould be? every duſt on the earth? &amp;c. To ſtep beſides this block (which yet we could under<g ref="char:EOLhyphen"/>take to clear the way of) we anſwer: Our Treatiſe is of man; whom alone his Crea<g ref="char:EOLhyphen"/>tour would have ſublimed a<g ref="char:EOLhyphen"/>bove others, by the Impreſſe even of his own Reſemblance: not of Plants or meere Ani<g ref="char:EOLhyphen"/>malls: of Immortalls not mor<g ref="char:EOLhyphen"/>talls, and amongſt theſe, of the Saints principally: mem<g ref="char:EOLhyphen"/>bers of the Lords own myſticall body: His Children, His Saints, &amp;c. who, what if we ſhould tell you, have a Seminall or radicall being eternal: which though (as being a thing beſide
+<pb n="17" facs="tcp:119505:10"/> our ſcope) we ſhall forbeare, yet is there enough ſaid to marre the conſequence, <hi>viz.</hi> from things inanimate or ve<g ref="char:EOLhyphen"/>getative onely, to Intellectives: from mortalls, to immortalls; and all this in a certaine re<g ref="char:EOLhyphen"/>ſpect of Dignity alſo.</p>
+            <p>Againe, Whatſoever thing moſt excellent can incur into, or be deviſed by the Imagina<g ref="char:EOLhyphen"/>tion of man, That ought we to believe to be in God, in ſome equall, or eminent manner; elſe would it prove to the diſpa<g ref="char:EOLhyphen"/>ragement, and indignity of the great Creator that he ſhould have enabled his Creature to imagine that Excellency, which is not in Himſelfe; which is a<g ref="char:EOLhyphen"/>bove Himſelfe. Now this nume<g ref="char:EOLhyphen"/>rical foreknowledge is eaſily by man both immaginable, and
+<pb n="18" facs="tcp:119505:11"/> comprehenſible. But Eterni<g ref="char:EOLhyphen"/>tie, Infinitude are without all doubt attributed to God: ei<g ref="char:EOLhyphen"/>ther of them is greater then the contended for preſcience of number: we grant him the former, how can we denie him the latter? So much for this point, wherein if we ſhall ſeeme to any more prolix then is needefull, let them have this anſwer. Both they that aſſent, may have now more ground ſo to do; and they that diſſent, may hereby of this their Er<g ref="char:EOLhyphen"/>rour be the more fully con<g ref="char:EOLhyphen"/>vinced. And now paſſe we to the other branch of our Defi<g ref="char:EOLhyphen"/>nition; namely, That the Predeſtination aforementioned was abſolutely, and of ſimple love.</p>
+            <p>Deſtination, or purpoſe
+<pb n="19" facs="tcp:119505:11"/> (largely taken) is an act of the minde, begotten of the under<g ref="char:EOLhyphen"/>ſtanding and wil concurring, and is related to ſomthing by the Perſon to be done. But this definition haply is too large for our purpoſe, which is to treate of ſuch purpoſes, as are about things of more con<g ref="char:EOLhyphen"/>ſiderable moment, and conſe<g ref="char:EOLhyphen"/>quence. We ſhall firſt there<g ref="char:EOLhyphen"/>fore devide, and then deſcribe them in more ample, and fami<g ref="char:EOLhyphen"/>liar termes. Purpoſes then are either more perfect, or leſſe perfect; that is abſolute or conditionall. The more per<g ref="char:EOLhyphen"/>fect or abſolute are when the Perſon purpoſing, having pro<g ref="char:EOLhyphen"/>jected or cogitated ſomthing to be done, and then riſing up to a conſideration, and ponder<g ref="char:EOLhyphen"/>ing of things already hapned,
+<pb n="20" facs="tcp:119505:12"/> preſent, or for the future hap<g ref="char:EOLhyphen"/>penable, (to wit) events, caſes, non-events, conditions, ſtates of things; forcible and of im<g ref="char:EOLhyphen"/>portance, as to the deſtroying, or impeding of the thing pur<g ref="char:EOLhyphen"/>poſed, doth at length ſit downe with a reſolution to do or exe<g ref="char:EOLhyphen"/>cute. The Imperfect or con<g ref="char:EOLhyphen"/>ditionall are, when the minde, projecting or imaginating ſomthing to be done, and ha<g ref="char:EOLhyphen"/>ving made enquiry and eſtima<g ref="char:EOLhyphen"/>tion of all important and forci<g ref="char:EOLhyphen"/>ble impediments, as to the exe<g ref="char:EOLhyphen"/>cution thereof, and then fin<g ref="char:EOLhyphen"/>ding ſome poſſible but uncer<g ref="char:EOLhyphen"/>taine intervention, accident, defect, or ſtate of things, or thing, that in the judgement of the Perſon purpoſing, ought to or will hinder &amp; forbid exe<g ref="char:EOLhyphen"/>cution, drawes at length to this
+<pb n="21" facs="tcp:119505:12"/> reſolution that if this or that intervene, or this or that in<g ref="char:EOLhyphen"/>tervene not, the purpoſe ſhall proceed to execution.</p>
+            <p>To prove that one word, (uncertaine) to be that onely, which gives being to the pur<g ref="char:EOLhyphen"/>poſe conditionall, as it is ſuch; and that without this uncer<g ref="char:EOLhyphen"/>tainty, the purpoſe, if it pro<g ref="char:EOLhyphen"/>ceed and abide, muſt needs be abſolute, is an eaſie taske: For why doth one yet purpoſe to do this or that, when hee's wel aſſur'd there hath been, is, or will be ſomthing that (in this particular) ought and will hin<g ref="char:EOLhyphen"/>der its accompliſhment? which cannot be. For examples ſake, A Father purpoſes to give his ſonne by will 100. l. on con<g ref="char:EOLhyphen"/>dition he pleaſe him well in the meane time. Here does the
+<pb n="22" facs="tcp:119505:13"/> Father know or is he certaine, that his ſonne will ſoe pleaſe him? or is he not certaine? if he be certaine, to what then ſerves the condition? (ſith de<g ref="char:EOLhyphen"/>fault or defect in the condition muſt deſtroy the purpoſe) If he knowes he will not ſo pleaſe him, and yet ſo purpoſes, then this is no more a condition, but the purpoſe may be, notwith<g ref="char:EOLhyphen"/>ſtanding this, abſolute and prefect. Hence therefore may we with clearneſſe deduce this concluſion: That the reaſon why purpoſes are con<g ref="char:EOLhyphen"/>ditionall is, a want in fore<g ref="char:EOLhyphen"/>knowledge, or an uncertainty in the perſon purpoſing, of all ſuch things as will and ought to deſtroy the purpoſe. So that it alſo followes to be inconvenient with the
+<pb n="23" facs="tcp:119505:13"/> properties of God, to purpoſe, or predeſtinate conditionally: it being a thing cleare that we ought to allow God ſuch a foreknowledge, eſpecially then too when he does intend to ſuch one; as happeneth in the caſe of purpoſes or Predeſtina<g ref="char:EOLhyphen"/>tion. Beſides this, alſo it may be minded, that where a per<g ref="char:EOLhyphen"/>ſon purpoſeth or Predeſtinate<g ref="char:EOLhyphen"/>eth to do any thing of free will, there the purpoſe parta<g ref="char:EOLhyphen"/>keth ſomthing of deſire to ex<g ref="char:EOLhyphen"/>ecution. God now is both an abſolute purpoſer, and a de<g ref="char:EOLhyphen"/>ſirous one too: then what is it can hinder him therein.</p>
+            <div type="part">
+               <head>Argument.</head>
+               <p>But if the Predeſtination a<g ref="char:EOLhyphen"/>forementioned, was cauſed by
+<pb n="24" facs="tcp:119505:14"/> the foreſight of Faith to come, (as is by many fancied,) then did the Predeſtinator foreſee ſome unavoidable, and unfru<g ref="char:EOLhyphen"/>ſtrable cauſe, or ſeries, or or<g ref="char:EOLhyphen"/>der of cauſes neceſſarily pro<g ref="char:EOLhyphen"/>ductive of the faith foreſeene: elſe how could it bee that God ſhould paſſe a certain act upon, or in reference to an uncertain, and unchangeable reſpect, or motive? which once granted, it is granted alſo that God may bee deceived. If any ſay, this productive cauſe may be con<g ref="char:EOLhyphen"/>ſidered of God, though yet to come; ſuch doe but trifle: For there muſt then alſo bee granted ſome preceding cauſe, equally certain and unfruſtra<g ref="char:EOLhyphen"/>ble as to the producing of that; we have therefore added, as a<g ref="char:EOLhyphen"/>bove, <hi>(Order of Cauſes.)</hi> Now
+<pb n="25" facs="tcp:119505:14"/> where was this cauſe, or order of cauſes before the creation? It muſt needs bee granted, it was in God alone. So then, the next and immediate cauſe of faith,<note place="margin">Cauſa cau<g ref="char:EOLhyphen"/>ſae eſt cauſa cauſati.</note> is but the remote ef<g ref="char:EOLhyphen"/>fect of this its firſt cauſe.</p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>If the ſame that decreed glo<g ref="char:EOLhyphen"/>ry to man, decreed alſo to work in him faith and grace, then glory depends not really upon the preceding habit of faith. But the former is true: Therfore the latter. Antecedent proved, <hi>Rom.</hi> 8, 29.30. <hi>Eph.</hi> 1.4.5.11, <hi>&amp;c.</hi>
+               </p>
+               <p>Here me thinks it is by ſome objected: Though Glory to man ſimply, depend not upon having of faith: Yet <hi>quoad
+<pb n="26" facs="tcp:119505:15"/> hunc,</hi> as concerning this or that particular man, it may depend on his having of faith.</p>
+            </div>
+            <div type="part">
+               <head>Anſw</head>
+               <p>God did then decree glory. To whom? Doubtleſſe to thoſe that are, or ſhall bee ſa<g ref="char:EOLhyphen"/>ved. But it is proved above, God knew them ſeverally and all, before they were exiſtent. It will follow then, that God afore decreed glory directly to the ſeverall perſons of men: For the indeterminateneſſe of all purpoſes, is of defect of knowledge, as above more at large.</p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>That which is not of Man, but is freely the gift of God,
+<pb n="27" facs="tcp:119505:15"/> cannot, as ſuch, be a motive, or impulſive to God, of con<g ref="char:EOLhyphen"/>ferring another gift; eſpecially that may as much exceed the former, as infinite doth finite.</p>
+               <p>But faith is not of Man, but is the gift of God.</p>
+               <p>
+                  <hi>Ergo,</hi> Faith, &amp;c.</p>
+               <p>There is no ground here from which to fix on God an obligation: If affectation you ſuggeſt, that is impious, nor can you with any colour of reaſon, flie to the merit of the gift. This for the Major.</p>
+               <p>The Minor is proved, <hi>Eph.</hi> 2.8. compared with <hi>Rom.</hi> 3.24.36. <hi>EZek.</hi> 22.26.27. <hi>Phil.</hi> 2.13.</p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>If we are ſaved freely, then not upon condition.</p>
+               <pb n="28" facs="tcp:119505:16"/>
+               <p>But we are ſaved freely, <hi>Ergo &amp;c.</hi>
+               </p>
+               <p>The Minor is proved by the two laſt cited places, <hi>Epheſ.</hi> and <hi>Rom.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>Thoſe things that are equal<g ref="char:EOLhyphen"/>ly related to God, as being their Author, and are the next and immediate effects of the ſelfe-ſame cauſe, cannot pro<g ref="char:EOLhyphen"/>perly be ſaid to be the cauſe, or effect one of the other.</p>
+               <p>But ſuch are Faith and Glo<g ref="char:EOLhyphen"/>ry. <hi>Ergo.</hi>
+               </p>
+               <p>For proof of the Minor, turn to <hi>Rom.</hi> 8.29, 30. <hi>Eph.</hi> 1.4, 5. &amp; 2.8. <hi>Rom.</hi> 6. <hi>ult. Iam.</hi> 1.17, 18. with many others. Where you read both conformity to the Image of Chriſt, vocation, juſtification; and glorification
+<pb n="29" facs="tcp:119505:16"/> as proceeding of the ſame cauſe, <hi>viz.</hi> foreknowing, <hi>i. e.</hi> fore-loving. There alſo have you faith called <hi>the gift of God;</hi> ſo likewiſe, <hi>eternall life.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>That, according to which men are ſaved, was before the world began.</p>
+               <p>But faith was not before the world began: <hi>Ergo,</hi> faith is not that, according to which men are ſaved.</p>
+               <p>The Major proved, 2 <hi>Tim.</hi> 1.9. the words theſe: <hi>Who hath ſaved us, and called us with an holy-calling, not according to our workes, but according to his owne purpoſe, and grace, which was gi<g ref="char:EOLhyphen"/>ven us in Chriſt Jeſus, before the world began.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="30" facs="tcp:119505:17"/>
+               <head>Argument.</head>
+               <p>If Glory proceed from Di<g ref="char:EOLhyphen"/>vine love, as the onely cauſe, and that freely; then is Faith neither the cauſe (whether ſo<g ref="char:EOLhyphen"/>ciall or ſolitary) nor condition of glory.</p>
+               <p>But the former is true, there<g ref="char:EOLhyphen"/>fore the latter.</p>
+               <p>That love is the onely cauſe, may hence bee demonſtrated. Where good, as good, is deſti<g ref="char:EOLhyphen"/>nated to a proper and ultimate object; It is either ſo deſtina<g ref="char:EOLhyphen"/>ted from ſome engagement, obligation, or reſpect of merit, or elſe out of pure love. But on God lay no engagement, or obligation of predeſtinating good to man. Whence ſhould it ariſe? He was then alone. If you
+<pb n="31" facs="tcp:119505:17"/> alledge the very purpoſe itſelf, what cauſed ſuch a purpoſe?</p>
+               <p>Was it not love ſtill? Nor is there much merit to be found in the <hi>Object, Man:</hi> of who<g ref="char:cmbAbbrStroke">̄</g> the perſon that predeſtinated, bea<g ref="char:EOLhyphen"/>reth witneſſe, that <hi>Every imagi<g ref="char:EOLhyphen"/>nation of the thoughts of his heart was onely evill continually. Iſaiah</hi> alſo acknowledgeth, that <hi>All our righteouſneſses are as filthy rags, &amp;c.</hi> chap. 64. v. 6. Well then might <hi>Paul</hi> ſay, <hi>Rom.</hi> 3.24. <hi>Being juſtified freely, &amp;c.</hi> Yea, and God pronounces, <hi>I wil love them freely,</hi> Hoſ. 14.4.</p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>For which <hi>Objects</hi> ſake ſim<g ref="char:EOLhyphen"/>ply, God had ordained, and to which hee properly did re<g ref="char:EOLhyphen"/>ferre the greateſt accident poſ<g ref="char:EOLhyphen"/>ſibly,
+<pb n="32" facs="tcp:119505:18"/> the higheſt demonſtrati<g ref="char:EOLhyphen"/>on, and moſt excellent inſtance of his love could be given. To that <hi>Object,</hi> it is incongruous, yea, abſurd to affirm; He would think much, and refuſe to adde alſo a gift of much leſſer value freely.</p>
+               <p>But for mans ſake God hath done the precedents, viz. in the <hi>Redemption. Ergo,</hi> &amp;c. And this is in ſubſtance, the very Argument of the Apoſtle him<g ref="char:EOLhyphen"/>ſelfe, <hi>Rom.</hi> 8.32. where hee ſaith: <hi>He that ſpared not his own Son, but delivered him up for us all: how ſhall hee not with him alſo freely give us all things?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Argument.</head>
+               <p>To whom God intended the beſtowing of a gift, for du<g ref="char:EOLhyphen"/>rance, eternall; for degree, moſt excellent: to them he did
+<pb n="33" facs="tcp:119505:18"/> alſo intend to give a temporall, and far leſſe excellent gift; be<g ref="char:EOLhyphen"/>ing yet ſuch as ought neceſſari<g ref="char:EOLhyphen"/>ly to antecede the other.</p>
+               <p>But to ſome men God inten<g ref="char:EOLhyphen"/>ded the precedent, (glory wee mean:) <hi>Ergo,</hi> the conſequent alſo: <hi>Inherit the Kingdome pre<g ref="char:EOLhyphen"/>pared for you from the foundation of the world, Matth.</hi> 25.34. This Kingdome is afterwards cal<g ref="char:EOLhyphen"/>led, <hi>Life eternall, verſ. ult.</hi>
+               </p>
+               <p>Thus then you have it clea<g ref="char:EOLhyphen"/>red to you from our fore-going diſſertation, Firſt, (to wit) That God before time knew the future perſons ſeverally, of all thoſe (without exception) that are or ſhall bee glorified. Secondly; that Gods confer<g ref="char:EOLhyphen"/>ring of glory to the ſame per<g ref="char:EOLhyphen"/>ſons, is, and was free, and ab<g ref="char:EOLhyphen"/>ſolute, without having reſpect
+<pb n="34" facs="tcp:119505:19"/> to any thing (as thereunto re<g ref="char:EOLhyphen"/>quiſite) in, of, or for them.</p>
+               <p>By the firſt, is refuted that opinion, according to which, even thoſe (all or ſome) who are dead, and<note n="*" place="margin">For they hold not of ſuffe<g ref="char:EOLhyphen"/>ring hells torments, till after the day of judgment.</note> reſerved for e<g ref="char:EOLhyphen"/>verlaſting woe, might, and had power to have beleeved, and conſequently been ſav'd e<g ref="char:EOLhyphen"/>ternally. For doubtleſſe, ſuch as are reſerv'd for hell, were never known of God, as being in the number of thoſe hee or<g ref="char:EOLhyphen"/>dained to glory, or accounted for ſuch.</p>
+               <p>By the 2<hi rend="sup">d</hi> Concluſion ap<g ref="char:EOLhyphen"/>pears the falſity of their other opinio<g ref="char:cmbAbbrStroke">̄</g>, namely: That God pre<g ref="char:EOLhyphen"/>ordained no man to life eternal, without reſpect to, and forſake of his future beleeving. So we end.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 14. line 22, for then here, read no where.</p>
+            <pb facs="tcp:119505:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
